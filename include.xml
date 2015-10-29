@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<dependency name="extension_iap_amazon" path="dependencies/android" if="android" />
+	<android extension="org.haxe.extension.Extension_iap_amazon" />
+	
+</project>
